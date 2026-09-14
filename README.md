@@ -1,4 +1,4 @@
-# AI-to-EV Workbook v43 — README
+# AI-to-EV Workbook  — README
 
 **File:** `AI_to_EV_Workbook_lv_v43.xlsx`
 **Case:** Contoso (vertical SaaS)
