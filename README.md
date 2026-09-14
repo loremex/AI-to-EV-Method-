@@ -1,7 +1,7 @@
-# AI-to-EV Workbook v43 — README
+# AI-to-EV Workbook  — README
 
 **File:** `AI_to_EV_Workbook_lv_v43.xlsx`
-**Case:** Contoso (vertical SaaS)
+**Case:** Contoso (horizontal SaaS)
 **Tabs:** 11 · **Formulas:** 1,145 · **Errors:** 0 (verified by recalc)
 
 Every figure below is read from the file as it currently stands, not from prior notes.
